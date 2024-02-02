@@ -1,0 +1,154 @@
+
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    box-sizing: border-box;
+}
+
+.name{
+    width:100%;
+    
+    background-color: darksalmon;
+    margin:auto;
+    text-align: center;
+    padding: 10px;
+}
+
+.name button{
+    
+    width:20%;
+    height: 50px;
+}
+
+
+.banner{
+    width:100%;
+    background-image: url('https://www.theshineapp.com/static/media/header-hero-image-model2.5d57ba24.jpg');
+    height:1000px;
+
+}
+
+.banner ul li a{
+    color:black;
+
+
+}
+
+ .banner pre{
+    margin-left: 20px;
+ }
+
+ .space{
+    
+
+    text-align: center;
+    justify-content: space-between;
+    display: inline-flex;
+    padding:220px ;
+    
+ }
+
+
+ .url{
+    margin-right: 20px;
+ }
+
+ .image h1{
+    font-size: 18px;
+ }
+
+.auto{
+    background-color: rgb(52,115,113);
+    height: 500px;
+    text-align: center;
+    
+}
+
+
+
+
+.auto h2{
+    color: white;
+}
+
+.topcourses{
+    float:left;
+    display:inline;
+}
+
+.sachin{
+    
+    margin: auto;
+}
+
+.color{
+    width:100%;
+    height:650px;
+    background-color: pink;
+    margin: auto;
+}
+
+.color1{
+    width:55%;
+    height:600px;
+    background-color: cyan;
+    margin: auto;
+    text-align: center;
+}
+
+.color2{
+    display:inline-flex;
+    padding:8px;
+    position: relative;
+}
+
+.color3{
+    width: 100%;
+    height:300px;
+    background-color: rgb(52,115,113);
+    margin: auto;
+    text-align: center;
+    padding: 10px;
+}
+
+.color3 h3{
+    color: white;
+}
+
+.color4{
+    width: 100%;
+    height:700px;
+    background-color: pink;
+    margin: auto;
+    text-align: center;
+}
+
+.color5{
+    width:100%;
+    height:400px;
+    
+    margin: auto;
+    justify-content: space-between;
+    display: inline-flex;
+    padding: 10px;
+}
+
+.color6{
+    /* display: inline-flex; */
+    /* padding: 10px; */
+    margin-right: 100px;
+}
+.f1{
+    display: inline-flex;
+}
+.icons{
+    padding:40px;
+}
+
+
+
+.icons a{
+    color:black;
+}
